@@ -15,5 +15,5 @@ Used techniques to handle imbalanced data:
 
 # 🚀Hyperparametertuning
 
-** 📌MetaHeuristic Algorithms: Dual Annealing and Differential Evolution **
+**📌MetaHeuristic Algorithms: Dual Annealing and Differential Evolution**
 * 📌Optuna
