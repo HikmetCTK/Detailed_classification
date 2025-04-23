@@ -8,12 +8,12 @@ Imbalanced Data + Less data classification problem
 # Techniques
 
 Used techniques to handle imbalanced data:
-* ADASYN
-* Nearmiss
-* Smote
-* Smotetomek
+*📌 ADASYN
+*📌 Nearmiss
+*📌 Smote
+*📌 Smotetomek
 
 # Hyperparametertuning
 
-** MetaHeuristic Algorithms: Dual Annealing and Differential Evolution
-* Optuna
+** 📌MetaHeuristic Algorithms: Dual Annealing and Differential Evolution
+* 📌Optuna
