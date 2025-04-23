@@ -8,10 +8,10 @@ Imbalanced Data + Less data classification problem
 # Techniques
 
 Used techniques to handle imbalanced data:
-*📌 ADASYN
-*📌 Nearmiss
-*📌 Smote
-*📌 Smotetomek
+📌* ADASYN
+📌* Nearmiss
+📌* Smote
+📌* Smotetomek
 
 # Hyperparametertuning
 
